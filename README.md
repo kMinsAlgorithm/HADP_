@@ -21,6 +21,9 @@ This repository contains the implementation and experiments for **HADP**, a hybr
   pages={162355-162366},
   keywords={Heuristic algorithms;Robots;Navigation;Collision avoidance;Diffusion models;Trajectory;Planning;Semantics;Autonomous vehicles;Robot sensing systems;Dynamic obstacle avoidance;hybrid planning system;conditional diffusion model;motion and path planning;autonomous mobile robot},
   doi={10.1109/ACCESS.2025.3609454}}
+```
+
+
 ---
 
 ## 🚀 Environment
