@@ -5,6 +5,8 @@
 
 This repository contains the implementation and experiments for **HADP**, a hybrid planning system designed to generate stable and safe avoidance trajectories in dynamic obstacle environments.  
 
+![HADP Demo](assets/hadp_demo.gif)
+
 ---
 
 ## 🧭 Publication
